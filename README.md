@@ -22,4 +22,4 @@ Primary Azure Technology*: Web Apps
 Other Azure Technologies: App Service
 
 final result::
-https://kalpeshrestaurant.azurewebsites.net/
+https://shubhamwaykar.azurewebsites.net
